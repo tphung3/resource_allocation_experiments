@@ -1,0 +1,3 @@
+[submodule "allocation_strategies/first_allocation_source"]
+	path = allocation_strategies/first_allocation_source
+	url = https://github.com/btovar/efficient-resource-allocations.git
